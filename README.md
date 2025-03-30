@@ -1,12 +1,7 @@
 # 🐲 iDragon Adventures
 
 ## 📝 Description
-iDragon Adventures is an engaging browser-based game where players control a dragon character, dodging obstacles and collecting points. Built with vanilla JavaScript, HTML5, and CSS3, this game features smooth animations, responsive controls, and progressive difficulty.
-
-![iDragon Adventures Gameplay](screenshots/gameplay.png)
-
-## 🎮 Live Demo
-[Play iDragon Adventures](https://yourusername.github.io/idragon-adventures)
+iDragon Adventures is an engaging browser-based game where players control a dragon character, dodging obstacles and collecting points. Built with vanilla JavaScript, HTML5, and CSS3, this game features smooth animations, responsive controls, and progressive difficulty
 
 ## ✨ Features
 - **Interactive Gameplay**: Control your dragon with keyboard inputs
